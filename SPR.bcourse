@@ -1,0 +1,14 @@
+--- template_start ---
+file:: SPR
+title:: Statistics, Probability Theory, and Programming
+course:: SPR
+--- template_end ---    
+
+section:: Module 1
+children:: load("./Module-1.bpls")
+
+section:: Module 2
+children:: load("./Module-2.bpls")
+
+section:: Module 3
+children:: load("./Module-3.bpls")
