@@ -1,73 +1,77 @@
 --- template_start --- 
-fileName:: Module-2 
-section:: Module 2 
+fileName:: Module-7 
+section:: Module 7 
 --- template_end ---
 
-Outline
+Overview
 _duration:: 0mins
 
 
-Built-In Functions::code
+Special Functions
 _duration:: 0mins
 
 
-Variables::code
+Quiz 7-1::ba()
 _duration:: 0mins
 
 
-Quiz 2-1::ba()
+Exponental Function
 _duration:: 0mins
 
 
-Control Statements 1::code
+Quiz 7-2::ba()
 _duration:: 0mins
 
 
-Control Statements 2::code
+Gamma Functions
 _duration:: 0mins
 
 
-Quiz 2-2::ba()
+Quiz 7-3::ba()
 _duration:: 0mins
 
 
-While Loop::code
+Transforms
 _duration:: 0mins
 
 
-Data Structures::code
+Quiz 7-4::ba()
 _duration:: 0mins
 
 
-List Methods::code
+Definite Integrals
 _duration:: 0mins
 
 
-Loops and Data Structures::code
+Indefinite Integrals
 _duration:: 0mins
 
 
-Quiz 2-3::ba()
+Improper Intergals
 _duration:: 0mins
 
 
-Methods::code
+Gaussian Integrals
 _duration:: 0mins
 
 
-Classes::code
+Quiz 7-5::ba()
 _duration:: 0mins
 
 
-Quiz 2-4::ba()
+Complex Numbers
 _duration:: 0mins
 
 
-Jupyter and Pandas::code
+Quiz 7-6::ba()
 _duration:: 0mins
 
 
-Quiz 2-5::ba()
+Matrix Algebra
+_duration:: 0mins
+
+
+Quiz 7-7::ba()
 _duration:: 0mins
 
 

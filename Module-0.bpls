@@ -1,10 +1,14 @@
---- template_start ---
-fileName:: Module-0
-section:: Welcome
---- template_end ---    
+--- template_start --- 
+fileName:: Module-0 
+section:: Welcome 
+--- template_end ---
 
-file:: Welcome
-preview:: true
-url:: https://player.vimeo.com/video/779911021?h=11699f372a
-title:: Welcome Video
-duration:: 02:54
+Welcome Video::vimeo('https://player.vimeo.com/video/779911021?h=11699f372a')
+_duration:: 02:54
+_preview:: True
+
+
+Welcome Video
+_duration:: 02:54
+
+

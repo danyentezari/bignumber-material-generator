@@ -1,0 +1,53 @@
+--- template_start --- 
+fileName:: Module-9 
+section:: Module 9 
+--- template_end ---
+
+Overview
+_duration:: 0mins
+
+
+Bayes Factor
+_duration:: 0mins
+
+
+Quiz 9-1::ba()
+_duration:: 0mins
+
+
+BIC
+_duration:: 0mins
+
+
+Quiz 9-2::ba()
+_duration:: 0mins
+
+
+Multivariate Gaussian Distribution
+_duration:: 0mins
+
+
+Mixture Models::math_viz('Mixture')
+_duration:: 0mins
+
+
+Markov Process
+_duration:: 0mins
+
+
+Markov Chain
+_duration:: 0mins
+
+
+Parameter Distributions
+_duration:: 0mins
+
+
+Monte-Carlo Markov Chains
+_duration:: 0mins
+
+
+Metropolis-Hastings Algorithm
+_duration:: 0mins
+
+

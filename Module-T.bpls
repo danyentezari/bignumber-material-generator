@@ -4,94 +4,48 @@ section:: Module 3
 --- template_end ---
 
 Overview
-_duration:: 0mins
-
 
 Jupyter::notebook
-_duration:: 0mins
-
 
 Quiz 3-1::ba()
-_duration:: 0mins
-
 
 Pandas::notebook
-_duration:: 0mins
-
 
 Quiz 3-2::ba()
-_duration:: 0mins
-
 
 Descriptive Statistics
-_duration:: 0mins
-
 
 Descriptive Statistics Example::notebook
-_duration:: 0mins
-
 
 Correlation
-_duration:: 0mins
-
 
 Correlation Example::notebook
-_duration:: 0mins
-
 
 Quiz 3-3::ba()
-_duration:: 0mins
-
 
 Plotting
-_duration:: 0mins
-
 
 Plotting::notebook
-_duration:: 0mins
-
 
 Quiz 3-4::ba()
-_duration:: 0mins
-
 
 Modeling
-_duration:: 0mins
-
 
 Modeling::notebook
-_duration:: 0mins
-
 
 Overview of Regression Analysis
-_duration:: 0mins
-
 
 Simple Linear Regression::math_viz('Regression')
-_duration:: 0mins
-
 
 Best-Fit
-_duration:: 0mins
-
 
 Ordinary Least Squares
-_duration:: 0mins
-
 
 OLS Example::notebook
-_duration:: 0mins
-
 
 Multiple Regression::math_viz('MultipleRegression')
-_duration:: 0mins
-
 
 Other Regression Techniques
-_duration:: 0mins
-
 
 Quiz 3-5::ba()
-_duration:: 0mins
-
 
