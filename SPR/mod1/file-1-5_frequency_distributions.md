@@ -6,9 +6,9 @@ A distribution is a data that describes the frequency of observations.
 
 Distributions come in different forms. Let us look at the basics first.
 
-<br/>
+<br/><br/>
 
-### Frequency Distribution
+## Frequency Distribution
 
 Consider the following example. <br/>
 
@@ -16,6 +16,7 @@ Suppose we toss a fair dice 20 times and record the outcome.
 
 After the 20 experiments have been performed, we count the frequency of each side and put the data in a table like so.
 
+<br/><br/>
 
 | Face | Frequency |
 |-|-|
@@ -32,11 +33,13 @@ So, side 3 landed 7 times; side 1 landed 3 times...etc.
 
 This is pretty straightforward, of course, but keep reading because this is the foundation for probability distributions!
 
-<br/>
+<br/><br/>
 
-### Relative Frequency Distribution
+## Relative Frequency Distribution
 
 A relative frequency distribution is one where the frequency of every observation is divided by the total. Look at the table below which has  changed **Table 1** from a frequency distribution to a relative frequency distribution.
+
+<br/><br/>
 
 | Face | Frequency |
 |-|-|
@@ -57,11 +60,3 @@ The relative frequency distribution is advantageous because you can see more qui
 Of course, this could be better if graphed but that's for the next section.
 
 <br/>
-
-### Probability Distribution
-
-Statistics tells us that we can determine the probability of observations by looking at data – like in the tables above.
-
-
-
-
