@@ -16,7 +16,7 @@ Suppose we toss a fair dice 20 times and record the outcome.
 
 After the 20 experiments have been performed, we count the frequency of each side and put the data in a table like so.
 
-<br/><br/>
+<br/>
 
 | Face | Frequency |
 |-|-|
@@ -39,7 +39,7 @@ This is pretty straightforward, of course, but keep reading because this is the 
 
 A relative frequency distribution is one where the frequency of every observation is divided by the total. Look at the table below which has  changed **Table 1** from a frequency distribution to a relative frequency distribution.
 
-<br/><br/>
+<br/>
 
 | Face | Frequency |
 |-|-|
